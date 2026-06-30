@@ -1,6 +1,7 @@
 A customizable dropdown widget for Flutter that supports any data type, single-select
 and multi-select modes, asynchronous option loading, and fully customizable trigger
 and menu delegates.
+![example_screenshot](https://raw.githubusercontent.com/YellowCoding/any_dropdown/refs/heads/main/screenshots/example_screenshot.png)
 
 ## Features
 
