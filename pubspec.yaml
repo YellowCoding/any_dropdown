@@ -1,7 +1,7 @@
 name: any_dropdown
 description: "A customizable dropdown widget for Flutter with single-select, multi-select, async options, and fully customizable trigger and menu delegates."
 version: 0.0.1
-homepage:
+homepage: https://github.com/YaolongChen/any_dropdown
 
 environment:
   sdk: ^3.12.0
